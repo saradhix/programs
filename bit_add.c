@@ -5,6 +5,7 @@ int a,b,c;
 a=2459;
 b=5278;
 c=bit_add(a,b);
+printf("Sum=%d\n",c);
 }
 
 int bit_add(int a, int b)
