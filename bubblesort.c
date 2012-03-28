@@ -1,7 +1,7 @@
 main()
 {
-		//int arr[5]={10,15,3,25,8};
-		int arr[5]={1,2,3,4,5};
+		int arr[5]={10,15,3,25,8};
+		//int arr[5]={1,2,3,4,5};
 
 		bubble_sort(arr,5);
 		printf("Printing sorted array\n");
